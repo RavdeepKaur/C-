@@ -1,0 +1,9 @@
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\bin\Debug\DemoGui.exe.config
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\bin\Debug\DemoGui.exe
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\bin\Debug\DemoGui.pdb
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\obj\Debug\DemoGui.csprojResolveAssemblyReference.cache
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\obj\Debug\DemoGui.Form1.resources
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\obj\Debug\DemoGui.Properties.Resources.resources
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\obj\Debug\DemoGui.csproj.GenerateResource.Cache
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\obj\Debug\DemoGui.exe
+C:\Users\ravdeepk\Desktop\DemoGui\DemoGui\obj\Debug\DemoGui.pdb
