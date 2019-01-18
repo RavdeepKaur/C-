@@ -1,0 +1,9 @@
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\bin\Debug\GUIBasics-2.exe.config
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\bin\Debug\GUIBasics-2.exe
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\bin\Debug\GUIBasics-2.pdb
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\obj\Debug\GUIBasics-2.csprojResolveAssemblyReference.cache
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\obj\Debug\GUIBasics_2.Form1.resources
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\obj\Debug\GUIBasics_2.Properties.Resources.resources
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\obj\Debug\GUIBasics-2.csproj.GenerateResource.Cache
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\obj\Debug\GUIBasics-2.exe
+C:\Users\ravdeepk\Desktop\GUIBasics-2\GUIBasics-2\obj\Debug\GUIBasics-2.pdb
